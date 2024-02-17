@@ -1,11 +1,10 @@
-<h1 align="center">Oi 👋, Eu sou o SirThyago</h1>
-<h3 align="center">Apaixonado por aprender e solucionar problemas</h3>
+<h1 align="center">Hi 👋, I'm SirApolo</h1>
+<h3 align="center">Passionate about learning and solving problems</h3>
 
-- 🔭 Atualmente estou trabalhando no meu **Portfólio**
+- 🔭 I'm working on my **Portfolio**
 
-- 🌱 Atualmente estou aprendendo **Ciência de Dados e Inteligência Artificial**
+- 🌱 I'm currently learning **Data Science and Artificial Intelligence**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
