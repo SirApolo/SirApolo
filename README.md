@@ -1,23 +1,67 @@
-<h1 align="center">Hi 👋, I'm SirApolo</h1>
-<h3 align="center">Passionate about learning and solving problems</h3>
+# Hello, I'm SirApolo 👋
 
-- 🔭 I'm working on my **Portfolio**
+I'm a software developer passionate about learning new technologies and solving complex problems. My username is inspired by the Greek god of the sun, Apollo, with a medieval touch of "Sir". I believe that programming is a form of art and expression, just like music and poetry. 🎵
 
-- 🌱 I'm currently learning **Data Science and Artificial Intelligence**
+## My skills 💻
 
-<p align="left">
-</p>
+I have experience in various programming languages and frameworks, both for web, mobile and desktop development. Here are some of the technologies that I master:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Web
+| Languages | Frameworks |
+|------------|------------|
+| JavaScript/TypeScript | NextJs |
+| PHP |  |
+| Python |  |
 
-<!---
-- 👋 Hi, I’m @SirThyago
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Mobile
+| Languages | Frameworks |
+|------------|------------|
+| Dart | Flutter |
+| Java |  |
 
-SirThyago/SirThyago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Desktop
+| Languages | Frameworks |
+|------------|------------|
+| Delphi/Object Pascal | FireMonkey |
+| C# | .Net |
+
+### Artificial Intelligence
+| Languages | Libraries |
+|------------|------------|
+| Python | ScitKit-Learn |
+| R | TensorFlow |
+|  | Pytorch |
+|  | Pandas |
+|  | Numpy |
+|  | GeoPandas |
+
+### ArcGIS Platform
+| Applications | Languages | Frameworks |
+|------------|------------|------------|
+| ArcGIS Pro | Python | ArcGIS API Python |
+| ArcGIS Online |  |  |
+| ArcGIS Enterprise |  |  |
+| Survey123 |  |  |
+| FieldMaps |  |  |
+
+### Databases
+| Databases |
+|-----------|
+| SQLite |
+| MongoDB |
+| PostgreSQL |
+| MySQL |
+| MariaDB |
+| Firebird |
+
+## My interests 🚀
+
+I'm always looking for new challenges and learning opportunities. Currently, I'm studying artificial intelligence with the libraries ScitKit-Learn, TensorFlow, Pytorch, Pandas, Numpy and GeoPandas. I find fascinating how AI can be applied to various domains and problems, such as computer vision, natural language processing, data analysis, geoprocessing and more. 🤖
+
+## My projects 📚
+
+I have several projects that I developed or am developing using the technologies that I mentioned above. You can find my repositories on my GitHub and see my code, my solutions and my ideas. I'm also open to collaborate with other developers on interesting and innovative projects. If you want to contact me, you can send me a message by my email or by my LinkedIn. I'll be happy to chat with you. 😊
+
+## Thank you for visiting 🙏
+
+I appreciate your interest in my profile and my work. I hope you liked what you saw and that you found something useful or inspiring. If you have any feedback, suggestion or question, please don't hesitate to tell me. I'm always willing to improve and learn. See you later! 👋
