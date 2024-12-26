@@ -7,17 +7,31 @@ I'm a software developer passionate about learning new technologies and solving 
 I have experience in various programming languages and frameworks, both for web, mobile and desktop development. Here are some of the technologies that I master:
 
 ### Web
-| Languages | Frameworks |
-|------------|------------|
-| JavaScript/TypeScript | NextJs |
-| PHP |  |
-| Python |  |
+| Languages |
+|------------|
+| JavaScript/TypeScript |
+| PHP |
+| Python |
+
+| Frameworks |
+|------------|
+| NextJs |
+| React |
+
+### Cloud
+| AWS |
+|------------|
+| API Gateway |
+| Amplify |
+| Route 53 |
+| Lambda |
+| DynamoDB |
 
 ### Mobile
 | Languages | Frameworks |
 |------------|------------|
 | Dart | Flutter |
-| Java |  |
+| JavaScript | React Native |
 
 ### Desktop
 | Languages | Frameworks |
@@ -26,23 +40,32 @@ I have experience in various programming languages and frameworks, both for web,
 | C# | .Net |
 
 ### Artificial Intelligence
-| Languages | Libraries |
-|------------|------------|
-| Python | ScitKit-Learn |
-| R | TensorFlow |
-|  | Pytorch |
-|  | Pandas |
-|  | Numpy |
-|  | GeoPandas |
+| Languages |
+|------------|
+| Python |
+| R |
+
+| Libraries |
+|------------|
+| ScitKit-Learn |
+| TensorFlow |
+| Pandas |
+| Numpy |
+| GeoPandas |
+| Airflow |
 
 ### ArcGIS Platform
-| Applications | Languages | Frameworks |
-|------------|------------|------------|
-| ArcGIS Pro | Python | ArcGIS API Python |
-| ArcGIS Online |  |  |
-| ArcGIS Enterprise |  |  |
-| Survey123 |  |  |
-| FieldMaps |  |  |
+| Applications |
+|------------|
+| ArcGIS Pro |
+| ArcGIS Online |
+| ArcGIS Enterprise |
+| Survey123 |
+| FieldMaps |
+
+| Frameworks |
+|------------|
+| ArcGIS API Python |
 
 ### Databases
 | Databases |
