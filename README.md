@@ -1,90 +1,54 @@
-# Hello, I'm SirApolo 👋
+# Hi, I'm SirApolo 👋 
 
-I'm a software developer passionate about learning new technologies and solving complex problems. My username is inspired by the Greek god of the sun, Apollo, with a medieval touch of "Sir". I believe that programming is a form of art and expression, just like music and poetry. 🎵
+### ML Engineer | Data Scientist | GIS Specialist
+**Bridging the gap between complex data and actionable insights through Artificial Intelligence and Geoprocessing.**
 
-## My skills 💻
+---
 
-I have experience in various programming languages and frameworks, both for web, mobile and desktop development. Here are some of the technologies that I master:
+## 🚀 About Me
+I am a Software Developer deeply committed to solving real-world problems using **Machine Learning** and **Spatial Analytics**. Recently, I've been focusing on **Healthcare Efficiency**, building end-to-end pipelines that integrate public health data with high-resolution demographic indicators.
 
-### Web
-| Languages |
-|------------|
-| JavaScript/TypeScript |
-| PHP |
-| Python |
+I believe that programming is a form of art—a blend of logic, data, and social impact.
 
-| Frameworks |
-|------------|
-| NextJs |
-| React |
+---
 
-### Cloud
-| AWS |
-|------------|
-| API Gateway |
-| Amplify |
-| Route 53 |
-| Lambda |
-| DynamoDB |
+## 🛠 Tech Stack
 
-### Mobile
-| Languages | Frameworks |
-|------------|------------|
-| Dart | Flutter |
-| JavaScript | React Native |
+### 🧠 Machine Learning & Data Science
+* **Core:** Python, R, Scikit-Learn, TensorFlow, PyTorch.
+* **MLOps & Lifecycle:** MLflow (Experiment Tracking & Model Registry), Docker, Docker-compose.
+* **Data Processing:** Pandas, Numpy, PyArrow, FastParquet.
+* **Feature Engineering:** Advanced normalization, Log scaling, Census data integration.
 
-### Desktop
-| Languages | Frameworks |
-|------------|------------|
-| Delphi/Object Pascal | FireMonkey |
-| C# | .Net |
+### 📍 GIS & Spatial Analytics
+* **Python GIS:** GeoPandas, geobr, PySAL.
+* **APIs:** Sidrapy (IBGE Census 2022), PySUS (DATASUS FTP).
+* **ArcGIS Ecosystem:** Pro, Online, Enterprise, Survey123, FieldMaps, ArcGIS API for Python.
 
-### Artificial Intelligence
-| Languages |
-|------------|
-| Python |
-| R |
+### 🏗 Data Engineering & Backend
+* **Automation:** Airflow, GitHub Actions (CI/CD).
+* **Web/Mobile:** TypeScript (React, Next.js), Dart (Flutter), PHP.
+* **Databases:** PostgreSQL (PostGIS), MongoDB, MySQL, SQLite, Firebird.
+* **Cloud:** AWS (Lambda, DynamoDB, API Gateway, S3).
 
-| Libraries |
-|------------|
-| ScitKit-Learn |
-| TensorFlow |
-| Pandas |
-| Numpy |
-| GeoPandas |
-| Airflow |
+---
 
-### ArcGIS Platform
-| Applications |
-|------------|
-| ArcGIS Pro |
-| ArcGIS Online |
-| ArcGIS Enterprise |
-| Survey123 |
-| FieldMaps |
+## 📊 Featured Project: Healthcare Efficiency Analytics
+**Predicting Hospital Cost Gaps in Paraná (Brazil)**
+* **The Problem:** Identifying financial inefficiencies in chronic disease management (Diabetes/Hypertension).
+* **The Solution:** An automated pipeline using `PySUS` and `Sidrapy` to fetch 2022 Census data, training a `RandomForest` model tracked by `MLflow`, and deploying a live inference dashboard via `Streamlit`.
+* **Key Achievement:** Integrated diverse data sources to identify municipalities with >20% unexplained cost overruns through Residual Analysis.
+* [View Repository]([LINK_PARA_SEU_REPO_AQUI](https://github.com/SirApolo/chronic-disease-spatial-analytics))
 
-| Frameworks |
-|------------|
-| ArcGIS API Python |
+---
 
-### Databases
-| Databases |
-|-----------|
-| SQLite |
-| MongoDB |
-| PostgreSQL |
-| MySQL |
-| MariaDB |
-| Firebird |
+## 📈 My Journey
+- 🔭 **Currently working on:** Refining MLOps workflows and spatial anomaly detection.
+- 🌱 **Learning:** Advanced CI/CD for ML (CML) and Deep Learning for satellite imagery.
+- 💬 **Ask me about:** GIS integration, MLOps, or why Python is my Swiss Army knife.
 
-## My interests 🚀
+## 📫 Connect with me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:67710527+SirApolo@users.noreply.github.com)
 
-I'm always looking for new challenges and learning opportunities. Currently, I'm studying artificial intelligence with the libraries ScitKit-Learn, TensorFlow, Pytorch, Pandas, Numpy and GeoPandas. I find fascinating how AI can be applied to various domains and problems, such as computer vision, natural language processing, data analysis, geoprocessing and more. 🤖
-
-## My projects 📚
-
-I have several projects that I developed or am developing using the technologies that I mentioned above. You can find my repositories on my GitHub and see my code, my solutions and my ideas. I'm also open to collaborate with other developers on interesting and innovative projects. If you want to contact me, you can send me a message by my email or by my LinkedIn. I'll be happy to chat with you. 😊
-
-## Thank you for visiting 🙏
-
-I appreciate your interest in my profile and my work. I hope you liked what you saw and that you found something useful or inspiring. If you have any feedback, suggestion or question, please don't hesitate to tell me. I'm always willing to improve and learn. See you later! 👋
+---
+*“Programming is a form of art and expression, just like music and poetry.”* 🎵
