@@ -49,6 +49,3 @@ I believe that programming is a form of art—a blend of logic, data, and social
 
 ## 📫 Connect with me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:67710527+SirApolo@users.noreply.github.com)
-
----
-*“Programming is a form of art and expression, just like music and poetry.”* 🎵
