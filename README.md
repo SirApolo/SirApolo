@@ -1,6 +1,6 @@
 # Hi, I'm SirApolo 👋 
 
-### ML Engineer | Data Scientist | GIS Specialist
+### Senior Software Engineer | Python & GIS Specialist | Data Engineering
 **Bridging the gap between complex data and actionable insights through Artificial Intelligence and Geoprocessing.**
 
 ---
