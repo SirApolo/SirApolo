@@ -1,51 +1,49 @@
-# Hi, I'm SirApolo 👋 
+# Hi, I'm Thiago (aka SirApolo) 👋
 
-### Senior Software Engineer | Python & GIS Specialist | Data Engineering
-**Bridging the gap between complex data and actionable insights through Artificial Intelligence and Geoprocessing.**
+### Full Stack & Backend Engineer | Tech Leader | Cloud Architect
+**Building robust backend architectures, scalable full-stack applications, and driving legacy system modernization.**
 
 ---
 
 ## 🚀 About Me
-I am a Software Developer deeply committed to solving real-world problems using **Machine Learning** and **Spatial Analytics**. Recently, I've been focusing on **Healthcare Efficiency**, building end-to-end pipelines that integrate public health data with high-resolution demographic indicators.
+I am a Software Engineer with **6+ years of experience** leading development teams and architecting end-to-end solutions. My core expertise lies in designing high-performance APIs, implementing microservices architectures, and breathing new life into legacy systems without breaking production.
 
-I believe that programming is a form of art—a blend of logic, data, and social impact.
+While my main territory is robust backend development (Python & Node.js), I am highly versatile across the full stack—building seamless interfaces for Web, Mobile, and Desktop applications. I also bring a strong background in Data Engineering and MLOps to the table as a strategic advantage for intelligent applications.
 
+---
+
+## 📊 High-Level Metrics
+```text
+┌──────────────────────────────┬──────────────────────────────┬──────────────────────────────┐
+│          6+ Years            │         16+ Projects         │            99.9%             │
+│         Experience           │             Led              │        Target Uptime         │
+└──────────────────────────────┴──────────────────────────────┴──────────────────────────────┘
+```
 ---
 
 ## 🛠 Tech Stack
 
-### 🧠 Machine Learning & Data Science
-* **Core:** Python, R, Scikit-Learn, TensorFlow, PyTorch.
-* **MLOps & Lifecycle:** MLflow (Experiment Tracking & Model Registry), Docker, Docker-compose.
-* **Data Processing:** Pandas, Numpy, PyArrow, FastParquet.
-* **Feature Engineering:** Advanced normalization, Log scaling, Census data integration.
+### ⚙️ Backend & Architecture
+* **Languages:** Python (FastAPI, Django), TypeScript (Node.js), .NET (C#).
+* **Architectures:** Microservices, Event-Driven, REST APIs, Clean Architecture, DDD.
+* **Databases:** PostgreSQL, MySQL, MongoDB, Cassandra, Redis, PostGIS.
 
-### 📍 GIS & Spatial Analytics
-* **Python GIS:** GeoPandas, geobr, PySAL.
-* **APIs:** Sidrapy (IBGE Census 2022), PySUS (DATASUS FTP).
-* **ArcGIS Ecosystem:** Pro, Online, Enterprise, Survey123, FieldMaps, ArcGIS API for Python.
+### 🌐 Frontend & Multiplatform
+* **Web:** TypeScript / JavaScript (Next.js, Vite).
+* **Mobile & Desktop:** Flutter, React Native, Delphi.
 
-### 🏗 Data Engineering & Backend
-* **Automation:** Airflow, GitHub Actions (CI/CD).
-* **Web/Mobile:** TypeScript (React, Next.js), Dart (Flutter), PHP.
-* **Databases:** PostgreSQL (PostGIS), MongoDB, MySQL, SQLite, Firebird.
-* **Cloud:** AWS (Lambda, DynamoDB, API Gateway, S3).
+### ☁️ Cloud, DevOps & Infrastructure
+* **Cloud Providers:** AWS (EC2, Lambda, S3, ECS, API Gateway, DynamoDB).
+* **Containers & CI/CD:** Docker, GitHub Actions, Cloudflare Pages pipeline.
 
----
-
-## 📊 Featured Project: Healthcare Efficiency Analytics
-**Predicting Hospital Cost Gaps in Paraná (Brazil)**
-* **The Problem:** Identifying financial inefficiencies in chronic disease management (Diabetes/Hypertension).
-* **The Solution:** An automated pipeline using `PySUS` and `Sidrapy` to fetch 2022 Census data, training a `RandomForest` model tracked by `MLflow`, and deploying a live inference dashboard via `Streamlit`.
-* **Key Achievement:** Integrated diverse data sources to identify municipalities with >20% unexplained cost overruns through Residual Analysis.
-* [View Repository]([LINK_PARA_SEU_REPO_AQUI](https://github.com/SirApolo/chronic-disease-spatial-analytics))
+### 🧠 The Plus: Data Engineering & MLOps
+* **Data Pipelines:** Airflow, Pandas, PyArrow, ETL orchestration.
+* **ML Lifecycle:** MLflow, Model Registry, Experiment Tracking, Streamlit dashboards.
 
 ---
-
-## 📈 My Journey
-- 🔭 **Currently working on:** Refining MLOps workflows and spatial anomaly detection.
-- 🌱 **Learning:** Advanced CI/CD for ML (CML) and Deep Learning for satellite imagery.
-- 💬 **Ask me about:** GIS integration, MLOps, or why Python is my Swiss Army knife.
 
 ## 📫 Connect with me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:67710527+SirApolo@users.noreply.github.com)
+
+* 🌐 **Portfolio:** [iamthiago.dev](https://iamthiago.dev)
+* 💼 **LinkedIn:** [LinkedIn](www.linkedin.com/in/the-thiago)
+* 📧 **Email:** [hello@iamthiago.dev](mailto:hello@iamthiago.dev)
